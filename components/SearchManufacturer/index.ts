@@ -1,0 +1,1 @@
+export {SearchManufacturer} from "@/components/SearchManufacturer/SearchManufacturer";

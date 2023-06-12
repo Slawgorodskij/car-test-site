@@ -1,0 +1,1 @@
+export {CarDetails} from "@/components/CarDetails/CarDetails";
